@@ -1,2 +1,2 @@
-# pwas
-Progressive Web Apps I use instead of the full application
+# library-wsj
+WSJ link for my phone to access wsj from the library for free, because why not.
