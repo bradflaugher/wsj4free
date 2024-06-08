@@ -1,2 +1,3 @@
-# library-wsj
-WSJ link for my phone to access wsj from the library for free, because why not.
+# wsj4free
+
+Links to access the WSJ for free via the library and/or other legal sources. PRs welcome.
