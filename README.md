@@ -1,3 +1,3 @@
 # wsj4free
 
-Links to access the WSJ for free via the library and/or other legal sources. PRs welcome.
+If your library or some resource offers the WSJ for free please submit a PR!
